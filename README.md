@@ -6,7 +6,7 @@
 ## 0. Cryptographic provenance  
 
 After copy-editing only for spelling, commit this file with the message  
-`“KAIRO Founding Memo v0.2 — immutable laws encoded”`.  
+`“KAIRO Founding Memo v0.1 — immutable laws encoded”`.  
 Immediately generate its SHA-256 digest and anchor that hash to any public, time-stamped chain (e.g., Bitcoin OP_RETURN or Ethereum calldata).  
 From this moment forward *all* amendments MUST 1) reference the prior hash, 2) explain why the previous statement of reality was incomplete or wrong, and 3) provide new falsifiable language.  Un-anchored copies have no standing.  
 
